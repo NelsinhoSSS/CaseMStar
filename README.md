@@ -1,0 +1,2 @@
+- Projeto que fiz na seletiva do meu 1 estagio.
+- Um site que tem uma lista onde possui funções para adicionar, excluir, editar "cartas" criadas e salvas no banco de dados.
